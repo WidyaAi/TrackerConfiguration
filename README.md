@@ -34,3 +34,9 @@ set         |```setDigitalOperatingStatus(<address>,<mode>,<threshold>)```|```se
 Kind        |Syntax                                               |Example              |
 ------------|-----------------------------------------------------|---------------------|
 set         |```setIntervalPub(<time in second, from 1 until 100>)```|```setIntervalPub(2)```|
+
+## Mode Relay
+
+Kind        |Syntax                                               |Example              |
+------------|-----------------------------------------------------|---------------------|
+set         |```setModeRelay(<String, "nc" or "no">)```|```setModeRelay(nc)```|
