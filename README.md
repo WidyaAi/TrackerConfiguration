@@ -1,4 +1,4 @@
-# Konfigurasi Widya Tracker
+# Widya Tracker Configuration
 
 ## APN
 
