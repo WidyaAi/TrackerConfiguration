@@ -47,3 +47,9 @@ Factory reset is used to restore all data variable reset.
 Kind        |Syntax                                               |Example              |
 ------------|-----------------------------------------------------|---------------------|
 set         |```setFactory()```                                   |```setFactory()```   |
+
+## All Configuration
+
+Kind        |Syntax                                               |Example              |
+------------|-----------------------------------------------------|---------------------|
+set         |```setAllConfig(<apn>;<user_apn>;<pass_apn>;<interval publish>;<tone_mode>;<gmt>)```                                   |```setAllConfig(internet;;;1;1;0)```   |
