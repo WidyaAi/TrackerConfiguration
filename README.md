@@ -37,6 +37,13 @@ set         |```setIntervalPub(<time in second, from 1 until 100>)```|```setInte
 
 ## Mode Relay
 
+Kind        |Syntax                                               |Example               |
+------------|-----------------------------------------------------|----------------------|
+set         |```setModeRelay(<String, "nc" or "no">)```           |```setModeRelay(nc)```|
+
+## Reset Factory
+Factory reset is used to restore all data variable reset.
+
 Kind        |Syntax                                               |Example              |
 ------------|-----------------------------------------------------|---------------------|
-set         |```setModeRelay(<String, "nc" or "no">)```|```setModeRelay(nc)```|
+set         |```setFactory()```                                   |```setFactory()```   |
