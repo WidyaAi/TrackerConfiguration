@@ -28,3 +28,9 @@ set         |```setDigitalOperatingStatus(<address>,<mode>,<threshold>)```|```se
 > mode are two types, namely nc(0) and no(1).
 
 > threshold is parameter to reach true value, the range is 0-1023.
+
+## Interval Publish 
+
+Kind        |Syntax                                               |Example              |
+------------|-----------------------------------------------------|---------------------|
+set         |```setIntervalPub(<time in second, from 1 until 100>)```|```setIntervalPub(2)```|
