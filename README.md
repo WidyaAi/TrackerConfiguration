@@ -23,6 +23,8 @@ Kind        |Syntax                                               |Example      
 ------------|-----------------------------------------------------|---------------------|
 set         |```setDigitalOperatingStatus(<address>,<mode>,<threshold>)```|```setAnalogOperatingStatus(1,1,400)```|
 
-> addrees value is 0-2
-> mode are two types, namely nc(0) and no(1)
-> threshold is parameter to reach true value, the range is 0-1023
+> addrees value is 0-2.
+
+> mode are two types, namely nc(0) and no(1).
+
+> threshold is parameter to reach true value, the range is 0-1023.
