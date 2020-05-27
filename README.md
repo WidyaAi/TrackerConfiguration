@@ -4,11 +4,11 @@
 
 Kind        |Syntax                                       |Example              |
 ------------|---------------------------------------------|---------------------|
-set         |```setAPN(<apnname>,<username>,<password>)```|```setAPN(internet,,)|
+set         |```setAPN(<apnname>,<username>,<password>)```|```setAPN(internet,,)```|
 
 ## Operating Status
 
-*** Analog ***
+***Analog***
 
 Kind        |Syntax                                               |Example              |
 ------------|-----------------------------------------------------|---------------------|
@@ -17,7 +17,7 @@ set         |```setAnalogOperatingStatus(<address>,<min>,<max>)```|```setAnalogO
 > the address has only values 0-2
 > min and max have only values 0-4095
 
-*** Digital ***
+***Digital***
 
 Kind        |Syntax                                               |Example              |
 ------------|-----------------------------------------------------|---------------------|
