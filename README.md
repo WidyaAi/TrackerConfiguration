@@ -21,7 +21,7 @@ set         |```setAnalogOperatingStatus(<address>,<min>,<max>)```|```setAnalogO
 
 Kind        |Syntax                                               |Example              |
 ------------|-----------------------------------------------------|---------------------|
-set         |```setDigitalOperatingStatus(<address>,<mode>,<threshold>)```|```setAnalogOperatingStatus(1,1,400)```|
+set         |```setDigitalOperatingStatus(<address>,<mode>,<threshold>)```|```setDigitalOperatingStatus(1,1,400)```|
 
 > addrees value is 0-2.
 
